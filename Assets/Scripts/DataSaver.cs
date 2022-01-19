@@ -5,6 +5,7 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "Data", menuName = "ScriptableObjects/DataSaver", order = 1)]
 public class DataSaver : ScriptableObject
 {
-    public string name;
+    public string PlayerName;
     public int score;
+    public bool Lost;
 }

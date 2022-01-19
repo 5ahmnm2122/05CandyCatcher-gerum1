@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 575854c8d107044ec9ada94a3320d15d, type: 3}
   m_Name: Data
   m_EditorClassIdentifier: 
-  name: 
+  PlayerName: penis
   score: 0
+  Lost: 1

@@ -1,3 +1,31 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@gerum1 
+5ahmnm2122
+/
+07CandyCatcher-HATZ
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+07CandyCatcher-HATZ/.gitignore
+@HATZ01
+HATZ01 Modify gitignore, untrack previously tracked files and delete subfolder
+Latest commit 5d866c4 yesterday
+ History
+ 1 contributor
+62 lines (51 sloc)  1.03 KB
+   
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
@@ -9,6 +37,10 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/[Pp]ackages/
+/[Uu]serSettings
+/.[Dd]S_Store
+/.[Vv]sconfig
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -58,3 +90,16 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
