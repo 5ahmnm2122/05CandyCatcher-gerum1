@@ -17,9 +17,7 @@ Unity Installation
 
 ###
 Screenshots:
-/Users/richardgerum/Desktop/Bildschirmfoto 2022-01-25 um 09.05.04.png
-/Users/richardgerum/Desktop/Bildschirmfoto 2022-01-25 um 09.05.54.png
-/Users/richardgerum/Desktop/Bildschirmfoto 2022-01-25 um 09.06.20.png
+
 
 ### Visuals:
 None
